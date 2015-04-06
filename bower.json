@@ -1,6 +1,6 @@
 {
-  "name": "webcomponentsjs",
-  "main": "webcomponents.js",
+  "name": "webcomponents-litejs",
+  "main": "webcomponents-lite.js",
   "version": "0.6.0",
   "homepage": "http://webcomponents.org",
   "authors": [
