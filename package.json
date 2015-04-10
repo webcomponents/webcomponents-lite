@@ -1,0 +1,21 @@
+{
+  "name": "webcomponents-lite",
+  "version": "0.6.0",
+  "description": "Polyfills for Custom Elements & HTML Imports",
+  "main": "webcomponents-lite.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcomponents/webcomponents-lite"
+  },
+  "keywords": [
+    "webcomponents",
+    "webcomponents-lite",
+    "custom-elements"
+  ],
+  "author": "The Polymer Authors",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/webcomponents/webcomponents-lite/issues"
+  },
+  "homepage": "https://github.com/webcomponents/webcomponents-lite"
+}
